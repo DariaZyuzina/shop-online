@@ -77,6 +77,14 @@ body {
     margin: 0 0 33px 0;
 }
 
+.paragraph:last-child {
+    margin: 0;
+}
+
+.recommend {
+    margin-bottom: 33px;
+}
+
 .text {
     margin: 0;
 }
