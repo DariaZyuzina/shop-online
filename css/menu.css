@@ -1,0 +1,14 @@
+.menu {
+    padding: 19px 0 ;
+}
+
+.menu__list {
+    font-size: 16px;
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+
+.menu__link {
+    text-decoration: none;
+    color:#525252;
+}
