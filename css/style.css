@@ -36,7 +36,7 @@
     margin: 0 auto;
 }
 
-.container_small-width {
+.container__small {
     max-width: 1100px;
 }
 
